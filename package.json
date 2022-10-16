@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue-upload-drop-images": "^1.0.7"
+  }
+}
